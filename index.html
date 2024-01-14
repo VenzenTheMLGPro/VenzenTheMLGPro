@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hellow, my name is Błażej</h1>
+<p> Average calistenics, chess and poker enjoyer. </p>
+</body>
+</html> 
