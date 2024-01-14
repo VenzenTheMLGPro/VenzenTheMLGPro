@@ -1,5 +1,5 @@
 ### Yo and hello, just working with flow.
-*# '''link to my website''' [https://venzenthemlgpro.github.io/]
+[link to my bio](https://venzenthemlgpro.github.io/)
 <!--
 **VenzenTheMLGPro/VenzenTheMLGPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
