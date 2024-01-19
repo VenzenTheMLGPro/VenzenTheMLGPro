@@ -3,7 +3,9 @@
 
 [link to fork](https://github.com/VenzenTheMLGPro/FakeNewsNet)
 [link to article containing github repository that i forked](https://paperswithcode.com/dataset/fakenewsnet)
-<!--
+Forki służą do samodzielnej edycji istniejącego już kodu bez naruszanie oryginału. Star oznacza inaczej polubienia kodu, do którego możemy w przyszłości powrócić. Watch pozwala nam śledzenie postępowania kodu oraz otrzymywania powiadomień w razie zmienienia oryginału.
+Myślę że sponsor to ciekawa opcja wsparcia autora.
+<!-- 
 **VenzenTheMLGPro/VenzenTheMLGPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
