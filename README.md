@@ -1,5 +1,8 @@
 ### Yo and hello, just working with flow.
 [link to my bio](https://venzenthemlgpro.github.io/)
+
+[link to fork](https://github.com/VenzenTheMLGPro/FakeNewsNet)
+[link to article containing github repository that i forked](https://paperswithcode.com/dataset/fakenewsnet)
 <!--
 **VenzenTheMLGPro/VenzenTheMLGPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
